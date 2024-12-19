@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tyler Kim</h1>
 <h3 align="center">Still searching for the One Piece 🏴‍☠️</h3>
 
-- 👨‍💻 All of my projects are available at [https://tylothedino.github.io/](https://tylothedino.github.io/)
+- 👨‍💻 All of my projects are available at [https://tylothedino.netlify.app/](https://tylothedino.netlify.app/)
 
 - 💬 Ask me about **Javascript, Python, Sequelize, or Anime :D**
 
